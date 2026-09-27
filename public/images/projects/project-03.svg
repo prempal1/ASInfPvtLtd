@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Commercial construction project placeholder">
+  <rect width="1200" height="800" fill="#f8fafc"/>
+  <rect x="120" y="170" width="960" height="430" rx="20" fill="#e2e8f0"/>
+  <rect x="190" y="240" width="210" height="230" rx="12" fill="#cbd5e1"/>
+  <rect x="460" y="200" width="250" height="270" rx="12" fill="#94a3b8"/>
+  <rect x="760" y="260" width="220" height="210" rx="12" fill="#64748b"/>
+  <path d="M120 620 L1080 620" stroke="#0f172a" stroke-width="12" stroke-linecap="round"/>
+</svg>

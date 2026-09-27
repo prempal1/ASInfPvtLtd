@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Renewable energy integration placeholder">
+  <rect width="1200" height="800" fill="#f0fdf4"/>
+  <rect x="120" y="220" width="220" height="220" rx="18" fill="#bbf7d0"/>
+  <rect x="420" y="160" width="220" height="280" rx="18" fill="#86efac"/>
+  <rect x="760" y="220" width="220" height="220" rx="18" fill="#4ade80"/>
+  <path d="M215 440 L480 440 L560 300 L820 300 L900 440" stroke="#166534" stroke-width="16" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M120 620 L1080 620" stroke="#14532d" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="215" cy="440" r="18" fill="#166534"/>
+  <circle cx="480" cy="440" r="18" fill="#166534"/>
+  <circle cx="560" cy="300" r="18" fill="#166534"/>
+  <circle cx="820" cy="300" r="18" fill="#166534"/>
+  <circle cx="900" cy="440" r="18" fill="#166534"/>
+</svg>

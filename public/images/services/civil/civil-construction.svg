@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Civil construction illustration">
+  <rect width="800" height="520" fill="#f8fafc"/>
+  <rect x="90" y="240" width="620" height="140" rx="14" fill="#dfe7ef"/>
+  <rect x="130" y="180" width="120" height="160" rx="10" fill="#cbd5e1"/>
+  <rect x="290" y="150" width="140" height="190" rx="10" fill="#94a3b8"/>
+  <rect x="470" y="200" width="180" height="140" rx="10" fill="#64748b"/>
+  <path d="M80 420 L720 420" stroke="#0f172a" stroke-width="12" stroke-linecap="round"/>
+  <path d="M160 420 L160 300" stroke="#475569" stroke-width="10" stroke-linecap="round"/>
+  <path d="M360 420 L360 250" stroke="#475569" stroke-width="10" stroke-linecap="round"/>
+  <path d="M560 420 L560 260" stroke="#475569" stroke-width="10" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Transmission corridor project placeholder">
+  <rect width="1200" height="800" fill="#eef8ff"/>
+  <path d="M130 530 L270 410 L420 530 L590 350 L760 470 L950 300 L1050 420" stroke="#2563eb" stroke-width="20" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#1d4ed8">
+    <circle cx="130" cy="530" r="18"/>
+    <circle cx="270" cy="410" r="18"/>
+    <circle cx="420" cy="530" r="18"/>
+    <circle cx="590" cy="350" r="18"/>
+    <circle cx="760" cy="470" r="18"/>
+    <circle cx="950" cy="300" r="18"/>
+    <circle cx="1050" cy="420" r="18"/>
+  </g>
+  <rect x="120" y="140" width="260" height="120" rx="14" fill="#dbeafe"/>
+  <rect x="510" y="160" width="270" height="110" rx="14" fill="#dbeafe"/>
+  <path d="M120 620 L1080 620" stroke="#0f172a" stroke-width="12" stroke-linecap="round"/>
+</svg>

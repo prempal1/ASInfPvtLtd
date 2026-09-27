@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Substation infrastructure illustration">
+  <rect width="800" height="520" fill="#edf5ff"/>
+  <rect x="90" y="160" width="620" height="180" rx="12" fill="#dbeafe"/>
+  <rect x="130" y="200" width="120" height="120" rx="8" fill="#93c5fd"/>
+  <rect x="290" y="200" width="120" height="120" rx="8" fill="#60a5fa"/>
+  <rect x="450" y="200" width="120" height="120" rx="8" fill="#3b82f6"/>
+  <rect x="610" y="200" width="60" height="120" rx="8" fill="#1d4ed8"/>
+  <g stroke="#1d4ed8" stroke-width="12" stroke-linecap="round">
+    <path d="M120 120 L210 120"/>
+    <path d="M200 120 L200 60"/>
+    <path d="M320 120 L410 120"/>
+    <path d="M400 120 L400 60"/>
+    <path d="M520 120 L610 120"/>
+    <path d="M600 120 L600 60"/>
+  </g>
+  <path d="M120 420 L680 420" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+</svg>

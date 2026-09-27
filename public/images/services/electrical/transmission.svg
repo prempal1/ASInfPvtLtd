@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Transmission line illustration">
+  <rect width="800" height="520" fill="#eef8ff"/>
+  <path d="M120 350 L260 240 L380 350 L520 240 L680 350" stroke="#2563eb" stroke-width="16" fill="none" stroke-linecap="round"/>
+  <g fill="#1d4ed8">
+    <circle cx="120" cy="350" r="18"/>
+    <circle cx="260" cy="240" r="18"/>
+    <circle cx="380" cy="350" r="18"/>
+    <circle cx="520" cy="240" r="18"/>
+    <circle cx="680" cy="350" r="18"/>
+  </g>
+  <path d="M120 420 L680 420" stroke="#0f172a" stroke-width="12" stroke-linecap="round"/>
+</svg>

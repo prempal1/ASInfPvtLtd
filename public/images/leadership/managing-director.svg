@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-label="Managing director placeholder portrait">
+  <rect width="800" height="560" fill="#eef2ff"/>
+  <circle cx="400" cy="200" r="120" fill="#dbeafe"/>
+  <path d="M245 490 C290 380, 510 380, 555 490 L555 490 L245 490 Z" fill="#a5b4fc"/>
+  <circle cx="400" cy="180" r="90" fill="#dbeafe"/>
+  <path d="M318 180 Q400 110 482 180" fill="#4338ca" opacity="0.8"/>
+</svg>

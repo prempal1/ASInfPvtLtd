@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Power evacuation illustration">
+  <rect width="800" height="520" fill="#f0fdf4"/>
+  <rect x="80" y="160" width="180" height="180" rx="18" fill="#bbf7d0"/>
+  <rect x="310" y="120" width="200" height="220" rx="18" fill="#86efac"/>
+  <rect x="560" y="160" width="160" height="180" rx="18" fill="#4ade80"/>
+  <path d="M210 250 L320 250 M370 250 L510 250 M580 250 L640 250" stroke="#166534" stroke-width="12" stroke-linecap="round"/>
+  <path d="M130 420 L670 420" stroke="#14532d" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="210" cy="250" r="20" fill="#14532d"/>
+  <circle cx="320" cy="250" r="20" fill="#14532d"/>
+  <circle cx="510" cy="250" r="20" fill="#14532d"/>
+  <circle cx="640" cy="250" r="20" fill="#14532d"/>
+</svg>

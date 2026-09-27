@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Industrial substation project placeholder">
+  <rect width="1200" height="800" fill="#edf5ff"/>
+  <rect x="90" y="180" width="500" height="280" fill="#dbeafe"/>
+  <rect x="630" y="140" width="360" height="360" fill="#bfdbfe"/>
+  <path d="M160 520 L1060 520" stroke="#1e3a8a" stroke-width="14" stroke-linecap="round"/>
+  <g fill="#2563eb">
+    <rect x="160" y="240" width="80" height="120" rx="8"/>
+    <rect x="290" y="220" width="80" height="140" rx="8"/>
+    <rect x="420" y="200" width="80" height="160" rx="8"/>
+  </g>
+  <path d="M690 470 L760 330 L840 460 L930 310 L1020 470" stroke="#1d4ed8" stroke-width="18" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="690" cy="470" r="18" fill="#1d4ed8"/>
+  <circle cx="760" cy="330" r="18" fill="#1d4ed8"/>
+  <circle cx="840" cy="460" r="18" fill="#1d4ed8"/>
+  <circle cx="930" cy="310" r="18" fill="#1d4ed8"/>
+  <circle cx="1020" cy="470" r="18" fill="#1d4ed8"/>
+</svg>

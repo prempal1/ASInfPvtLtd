@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://example.com/index.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/about.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/services.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/substations.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/transmission-lines.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/renewable-power-evacuation.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/epc-solutions.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/projects.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/project-details.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/careers.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/contact.html</loc>
+  </url>
+</urlset>
